@@ -3,7 +3,7 @@ This repo contains source codes for the ICML 2024 paper [Autaptic Synaptic Circu
 
 This code is based on [OpenSTL][2] and [SpikingJelly][3] framework. Please refer to [install.md](docs/en/install.md) for more detailed instructions of the OpenSTL.
 
-Install the SpikingJelly with the code:
+Please install the SpikingJelly with the code:
 > pip install spikingjelly
 
 Generally speaking, just install these two frameworks. If it still prompts that some necessary modules are missing, please install them yourself.
