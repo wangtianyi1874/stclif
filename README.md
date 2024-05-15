@@ -1,7 +1,7 @@
 ## [ICML 2024] Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks
 This repo contains source codes for the ICML 2024 paper [Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks.][1]
 
-This codes are based on the [OpenSTL][2] and [SpikingJelly][3] framework. Please refer to [install.md](docs/en/install.md) for more detailed instructions of the OpenSTL.
+This codes are based on the [OpenSTL][2] and [SpikingJelly][3] frameworks. Please refer to [install.md](docs/en/install.md) for more detailed instructions of the OpenSTL.
 
 Please install the SpikingJelly with the code:
 > pip install spikingjelly
